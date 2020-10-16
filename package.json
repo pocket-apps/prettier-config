@@ -1,6 +1,6 @@
 {
   "name": "@pocket-studios/prettier-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Shareable Prettier config for our projects",
   "main": "prettier.json",
   "repository": "git@github.com:pocket-studios/prettier-config.git",
