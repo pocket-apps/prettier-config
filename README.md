@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-yarn add --D @square/prettier-config
+yarn add -D @pocket-studios/prettier-config
 ```
 
 Then in
@@ -11,6 +11,6 @@ Then in
 ```jsonc
 {
   // ...
-  "prettier": "@square/prettier-config"
+  "prettier": "@pocket-studios/prettier-config"
 }
 ```
