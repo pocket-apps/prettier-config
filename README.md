@@ -1,9 +1,9 @@
-# @pocket-studios/prettier-config
+# @pocket-apps/prettier-config
 
 ## Install
 
 ```sh
-yarn add -D @pocket-studios/prettier-config
+yarn add -D @pocket-apps/prettier-config
 ```
 
 Then in
@@ -11,6 +11,6 @@ Then in
 ```jsonc
 {
   // ...
-  "prettier": "@pocket-studios/prettier-config"
+  "prettier": "@pocket-apps/prettier-config"
 }
 ```

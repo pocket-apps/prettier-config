@@ -1,8 +1,8 @@
 {
-  "name": "@pocket-studios/prettier-config",
-  "version": "1.1.0",
+  "name": "@pocket-apps/prettier-config",
+  "version": "1.0.0",
   "description": "Shareable Prettier config for our projects",
-  "repository": "git@github.com:pocket-studios/prettier-config.git",
+  "repository": "git@github.com:pocket-apps/prettier-config.git",
   "license": "MIT",
   "main": "prettier.json",
   "scripts": {
